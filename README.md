@@ -88,6 +88,10 @@ This app helped understand the following concepts in practice:
 - ✅ API integration and async data fetching
 - ✅ Basic Appwrite backend integration
 
+## ©️ Credits
+
+This project has been done by following Javascript Mastery's video on YouTube as a reference. Here's the link: https://youtu.be/dCLhUialKPQ?si=PGCtzZ9Z66U4TS5r
+
 ## 📮 Feedback & Contributions
 
 Feel free to fork this repo, suggest features, or raise issues. PRs are welcome too! 😊
